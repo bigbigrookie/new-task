@@ -1,6 +1,6 @@
 import numpy
 import time
 start_time = time.time()
-time.sleep(2)
+time.sleep(3)
 end_time = time.time()
 print(f'use time id {end_time-start_time}')
